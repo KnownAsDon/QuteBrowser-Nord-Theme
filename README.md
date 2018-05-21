@@ -19,4 +19,4 @@ use the theme for him/her self is free to do so.
 
 Screenshoots
 ---
-![Screenshot](https://github.com/KnownAsDon/QuteBrowser-Nord-Theme/screenshots/home_page.png
+![Screenshot](https://github.com/KnownAsDon/QuteBrowser-Nord-Theme/blob/master/screenshots/home_page.png)
